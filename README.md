@@ -28,7 +28,7 @@ val vm = getOrCreateHomeViewModel(key = "someKey")
 
 
 #### features to be added:
-[] visibility options in the annotation
+- [] visibility options in the annotation
  
 
 <br>
