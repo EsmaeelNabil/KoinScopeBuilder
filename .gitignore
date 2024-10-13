@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+build-cache/
+local.properties
+build-cache/
+
+# IDEA/Android Studio ignores
+*iml
+.idea/
+
+# Others
+captures/
+
+.asciidoctor/
+.kotlin/
+.DS_Store
+
+example-android-app/
+
+# kotlin-js
+kotlin-js-store/
+
+# Editors
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+kls_database.db
