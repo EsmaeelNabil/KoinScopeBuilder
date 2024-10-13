@@ -13,7 +13,10 @@ class HomeViewModel //the rest of your implementation
 ```kotlin
 
 val appModule = listOf(
-    homeViewModelModule //this is generated for you
+    // .. other modules
+
+    //this is generated for you
+    homeViewModelModule 
 )
 ```
 
